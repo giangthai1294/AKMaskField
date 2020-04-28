@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 	s.name         = "AKMaskField"
-  s.version      = "3.0.0"
+  s.version      = "3.0.1"
   s.homepage     = "https://github.com/artemkrachulov/AKMaskField"
   s.summary      = "Enter data in the fixed quantity and in the certain format."
   s.description  = <<-DESC
