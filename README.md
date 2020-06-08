@@ -48,10 +48,16 @@ AKMaskField is UITextField subclass which allows enter data in the fixed quantit
 
  2. Update your Podfile to include the following:
 
-	``` ruby
-	use_frameworks!
-	pod 'AKMaskField'
-	```
+``` ruby
+use_frameworks!
+pod 'AKMaskField'
+```
+
+or from that repository
+
+```
+pod 'AKMaskField', :git => 'https://github.com/sh-khashimov/AKMaskField', :tag => 'v3.0.1'
+```
 
  3. Run `pod install`.
 
